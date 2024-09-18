@@ -25,6 +25,8 @@ from __future__ import annotations
 import matplotlib.pyplot as plt
 import numpy as np
 
+
+
 # initial triangle of Koch snowflake
 VECTOR_1 = np.array([0, 0])
 VECTOR_2 = np.array([0.5, 0.8660254])
